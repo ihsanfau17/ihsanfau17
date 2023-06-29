@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ihsanfau17
 - 👀 I’m interested in Bioinformatics especially for NGS analysis
-- 🌱 I’m currently learning Transcriptomic workflow
 - 💞️ I’m looking to collaborate on NGS and ONT workflow analysis
 - 📫 How to reach me ihsanfau17@gmail.com
 
