@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ihsanfau17
-- 👀 I’m interested in Bioinformatics especially for NGS analysis
-- 💞️ I’m looking to collaborate on NGS and ONT workflow analysis
+- 👀 Current project in machine learning for supply chain analysis and inventory management (and other business area also)
+- 👀 Has previous experience in handling data analytics for bioinformatics, especially for NGS analysis
 - 📫 How to reach me ihsanfau17@gmail.com
 
 <!---
