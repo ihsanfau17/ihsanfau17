@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ihsanfau17
-- 👀 Current project in machine learning for supply chain analysis and inventory management (and other business area also)
+- 👀 Current project in machine learning for supply chain analysis and inventory management (and other business area)
 - 👀 Has previous experience in handling data analytics for bioinformatics, especially for NGS analysis
 - 📫 How to reach me ihsanfau17@gmail.com
 
